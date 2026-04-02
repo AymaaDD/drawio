@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram name="Страница-1" id="kHsfUX_ag-_AvIxYdK3h">
-    <mxGraphModel dx="1306" dy="298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1808" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,8 +67,8 @@
         <mxCell id="CZotxOG-x3dEbClT2XNq-29" parent="CZotxOG-x3dEbClT2XNq-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SQ1 NC - на выходе в БУД&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="170" as="geometry" />
         </mxCell>
-        <mxCell id="CZotxOG-x3dEbClT2XNq-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Питание БУД" vertex="1">
-          <mxGeometry height="30" width="100" x="40" y="160" as="geometry" />
+        <mxCell id="CZotxOG-x3dEbClT2XNq-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="Питание БУД" vertex="1">
+          <mxGeometry height="30" width="100" x="40" y="190" as="geometry" />
         </mxCell>
         <mxCell id="CZotxOG-x3dEbClT2XNq-16" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fillColor=#d80073;strokeColor=#A50040;strokeWidth=4;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -94,11 +94,11 @@
         <mxCell id="CZotxOG-x3dEbClT2XNq-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=19;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="0" vertex="1">
           <mxGeometry height="30" width="60" y="310" as="geometry" />
         </mxCell>
-        <mxCell id="CZotxOG-x3dEbClT2XNq-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SQ1 NO - на выходе в БУД&amp;nbsp;" vertex="1">
+        <mxCell id="CZotxOG-x3dEbClT2XNq-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="SQ1 NO - на входе в БУД&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="170" x="40" y="350" as="geometry" />
         </mxCell>
-        <mxCell id="CZotxOG-x3dEbClT2XNq-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SQ1 NC - на выходе в БУД&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="170" x="60" y="520" as="geometry" />
+        <mxCell id="CZotxOG-x3dEbClT2XNq-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="SQ1 NC - на входе в БУД&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="170" x="40" y="510" as="geometry" />
         </mxCell>
         <mxCell id="CZotxOG-x3dEbClT2XNq-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=11;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="24 В" vertex="1">
           <mxGeometry height="30" width="50" y="550" as="geometry" />
